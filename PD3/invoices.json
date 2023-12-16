@@ -1,0 +1,73 @@
+{
+    "invoices": [
+        {
+            "issuer": {
+                "name": "EN_ONE",
+                "tin": "PL1234567895"
+            },
+            "recipient": {
+                "name": "EN_TWO",
+                "tin": "PL1234567896"
+            },
+            "orders": [
+                {
+                    "id": 1,
+                    "item": {
+                        "name": "orange",
+                        "price": 9.0000,
+                        "producer": "Fruit"
+                    },
+                    "quantity": 10
+                },
+                {
+                    "id": 2,
+                    "item": {
+                        "name": "apple",
+                        "price": 8.0000,
+                        "producer": "Fruit"
+                    },
+                    "quantity": 4
+                },
+                {
+                    "id": 3,
+                    "item": {
+                        "name": "pear",
+                        "price": 6.0000,
+                        "producer": "Fruit"
+                    },
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "issuer": {
+                "name": "EN_THREE",
+                "tin": "PL1234567897"
+            },
+            "recipient": {
+                "name": "EN_FOUR",
+                "tin": "PL1234567898"
+            },
+            "orders": [
+                {
+                    "id": 1,
+                    "item": {
+                        "name": "carrot",
+                        "price": 5.5000,
+                        "producer": "Veggies"
+                    },
+                    "quantity": 33
+                },
+                {
+                    "id": 2,
+                    "item": {
+                        "name": "potato",
+                        "price": 8.8800,
+                        "producer": "Veggies"
+                    },
+                    "quantity": 27
+                }
+            ]
+        }
+    ]
+}

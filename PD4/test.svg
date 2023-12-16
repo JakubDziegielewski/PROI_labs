@@ -1,0 +1,8 @@
+<svg version="1.1"width="200" height="200"xmlns="http://www.w3.org/2000/svg">
+<line x1="0" y1="0" x2="100" y2="100" stroke = "black"/>
+<line x1="100" y1="0" x2="100" y2="100" stroke = "black"/>
+<circle cx="100" cy="100" r="50" fill="blue" stroke = "red"/>
+<rect x="130" y="130" width="50" height="60" fill="red" stroke = "blue"/>
+<text x="70" y="170" font-size="22" text-anchor="middle" fill="red" stroke = "None">PROI 23Z</text>
+<circle cx="170" cy="170" r="30" fill="white" stroke = "black"/>
+</svg>

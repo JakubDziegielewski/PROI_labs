@@ -1,0 +1,65 @@
+INVOICE
+Issuer: Company name: EN_ONE 
+TIN: PL1234567895
+Recipient: Company name: EN_TWO 
+TIN: PL1234567896
+Sum: 233.99
+Orders:
+1. 
+id: 1 
+item: Item: orange 
+Price: 9
+Producer: Fruit
+quantity: 10
+full price: 90
+
+2. 
+id: 2 
+item: Item: apple 
+Price: 8
+Producer: Fruit
+quantity: 4
+full price: 32
+
+3. 
+id: 3 
+item: Item: pear 
+Price: 6
+Producer: Fruit
+quantity: 2
+full price: 12
+
+4. 
+id: 4 
+item: Item: celery 
+Price: 11.11
+Producer: Veggies
+quantity: 9
+full price: 99.99
+
+
+INVOICE
+Issuer: Company name: 
+EN_THREE 
+TIN: PL1234567897
+Recipient: Company name: EN_FOUR 
+TIN: PL1234567898
+Sum: 421.26
+Orders:
+1. 
+id: 10 
+item: Item: carrot 
+Price: 5.5
+Producer: Veggies
+quantity: 33
+full price: 181.5
+
+2. 
+id: 11 
+item: Item: potato 
+Price: 8.88
+Producer: Veggies
+quantity: 27
+full price: 239.76
+
+
